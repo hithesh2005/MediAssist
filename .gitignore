@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+
+# Large training datasets
+archive (7)/
+archive (8)/
+huggingface/
+Medical-Dialogue-main/
+
+# Generated user history
+mediassist_history/*.json
